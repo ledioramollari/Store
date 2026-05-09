@@ -1,0 +1,5 @@
+ADMIN username;Ledio  password;ledio2005
+MANAGER username;mb   password;mb  (manager for all sectors)
+MANAGER username;m   password;m (manager for one of the sectors)
+CASHIER username;cb  password;cb(cashier for all sectors)
+CASHIER username;c  password;c(cashier for one sectors)
